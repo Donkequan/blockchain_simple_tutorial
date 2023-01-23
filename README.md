@@ -2,7 +2,7 @@
 
 项目是一个区块链的简单实现，是仅仅支持数据上传，没有挖矿算法。
 
-blockchain simple implementation in Python, it only supports data uploading without mining and consensus.
+blockchain simple implementation in Python, it only supports data uploading without mining.
 
 
 
