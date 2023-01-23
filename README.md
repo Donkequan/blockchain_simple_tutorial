@@ -6,7 +6,7 @@ blockchain simple implementation in Python with mining and consensus.
 
 
 
-**必要环境 Required Environment **
+**必要环境 Required Environment**
 
 - python3
 
