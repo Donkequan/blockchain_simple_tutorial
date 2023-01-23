@@ -6,6 +6,7 @@ blockchain simple implementation in Python with mining and consensus.
 
 
 
+
 **必要环境 Required Environment**
 
 - python3
@@ -15,6 +16,7 @@ blockchain simple implementation in Python with mining and consensus.
 ```cmd
 pip3 install -r requirements.txt
 ```
+
 
 
 
@@ -33,6 +35,7 @@ pip3 install -r requirements.txt
 六、区块链浏览器
 
 七、解耦
+
 
 
 
