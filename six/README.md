@@ -30,6 +30,8 @@ private_key:1d1357b83c44cbeb3511d6f48ef99bfaf2b5dfafaec16463fde3da86d976d7c5
 
 client是发送者
 
+运行flask server
+
 ```cmd
 python blockchain.py
 ```
