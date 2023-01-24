@@ -2,7 +2,7 @@
 
 可以在浏览器中查看某个地址的全部信息
 
-得到一个发送者的keys
+**得到一个发送者的keys**
 
 ```cmd
 python generateKey.py
@@ -15,9 +15,7 @@ address:fxbAv/OpUAuT+m8aXPYBfT9h34UXFYa6lPi6pQcPsDmudwZ9wAm2m0kG933AsNq7uDFCfT+z
 private_key:f5bcd97516d8c38a3a7819a4653b2482fb816e7c8ea5becd7c189037d5ea598d
 ```
 
-得到一个接收者的keys
-
-得到一个发送者的keys
+**得到一个接收者的keys**
 
 ```cmd
 python generateKey.py
@@ -36,7 +34,7 @@ client是发送者
 python blockchain.py
 ```
 
-发送交易
+**发送交易**
 
 ```cmd
 python client.py -host localhost -port 8080 -toa 1voYAu7nVehpyAnuImBRXCYXFSfCnarjJCFv+YvSl6fXhV5rhQ/Gx3gy1twe7OGKMFEcuiby8R4Nps7StK3Aaw== -froma fxbAv/OpUAuT+m8aXPYBfT9h34UXFYa6lPi6pQcPsDmudwZ9wAm2m0kG933AsNq7uDFCfT+z5bZGooWIeh9C6g== -msg hello -private f5bcd97516d8c38a3a7819a4653b2482fb816e7c8ea5becd7c189037d5ea598d
