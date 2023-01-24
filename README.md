@@ -14,7 +14,7 @@ blockchain simple implementation in Python, it only supports data uploading with
 基于Flask框架和requests请求
 
 ```cmd
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 <br>
